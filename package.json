@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "pg": "^8.7.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "rest-practice-1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MashhuraYusufova/rest-practice-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MashhuraYusufova/rest-practice-1/issues"
+  },
+  "homepage": "https://github.com/MashhuraYusufova/rest-practice-1#readme",
+  "description": ""
+}
